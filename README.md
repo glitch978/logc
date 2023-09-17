@@ -1,5 +1,5 @@
 # logc
-A slightly version of kurotych's great C logging library
+A slightly improved version of kurotych's great C logging library
 
 ## Improvments
 
